@@ -1,0 +1,60 @@
+body{
+    background-color: #dfdddd;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+td{
+    font-size: 18px;
+}
+
+.imagempadrao{
+    width: 28%;
+    text-align: left;
+}
+
+header{
+    padding: 10px;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    background-color: white;
+}
+
+td{
+    vertical-align: middle; 
+
+}
+
+.CelulaImagPadrao{
+    text-align: left;
+    margin-left: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.bordas{
+    max-width: 1250PX;
+    margin: 0 auto;
+    color: black;
+}
+
+.paragrafo{
+    text-indent: 30px;
+}
+
+.imgusuario {
+    display: flex;
+    align-items: center; 
+}
+
+.imgusuario img {
+    margin-right: 20px; 
+    width: 250px; 
+    height: auto;
+}
